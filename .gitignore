@@ -7,7 +7,7 @@ build
 commit.sh.old
 doc
 doxydoc
-cppad/configure.hpp
+# cppad/configure.hpp
 # all directories
 *.err
 */*.err
